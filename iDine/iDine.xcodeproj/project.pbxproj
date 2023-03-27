@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		FAB603DE29D22B97000602FD /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB603DD29D22B97000602FD /* ItemRow.swift */; };
 		FABD4B5829D2102B004342BD /* iDineApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABD4B5729D2102B004342BD /* iDineApp.swift */; };
 		FABD4B5A29D2102B004342BD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABD4B5929D2102B004342BD /* ContentView.swift */; };
 		FABD4B5C29D2102D004342BD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FABD4B5B29D2102D004342BD /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		FAB603DD29D22B97000602FD /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		FABD4B5429D2102B004342BD /* iDine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		FABD4B5729D2102B004342BD /* iDineApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = iDineApp.swift; sourceTree = "<group>"; };
 		FABD4B5929D2102B004342BD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 			isa = PBXGroup;
 			children = (
 				FABD4B5929D2102B004342BD /* ContentView.swift */,
+				FAB603DD29D22B97000602FD /* ItemRow.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -169,6 +172,7 @@
 				FABD4B5A29D2102B004342BD /* ContentView.swift in Sources */,
 				FABD4B5829D2102B004342BD /* iDineApp.swift in Sources */,
 				FABD4B6929D210ED004342BD /* Order.swift in Sources */,
+				FAB603DE29D22B97000602FD /* ItemRow.swift in Sources */,
 				FABD4B6629D210CE004342BD /* Helper.swift in Sources */,
 				FABD4B6A29D210ED004342BD /* Menu.swift in Sources */,
 			);
