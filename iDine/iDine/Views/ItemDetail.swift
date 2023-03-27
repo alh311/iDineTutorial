@@ -24,9 +24,7 @@ struct ItemDetail: View {
                     .offset(x: -5, y: -5)
             }
             Text(item.description)
-                .background(.blue)
                 .padding()
-                .background(.green)
             
             Spacer()
         }
