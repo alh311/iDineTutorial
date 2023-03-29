@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		FA151C0529D4AB05001FAD8B /* OrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA151C0429D4AB05001FAD8B /* OrderView.swift */; };
 		FA151C0729D4AE8A001FAD8B /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA151C0629D4AE8A001FAD8B /* MainView.swift */; };
+		FA151C0929D4B346001FAD8B /* CheckoutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA151C0829D4B346001FAD8B /* CheckoutView.swift */; };
 		FAB603DE29D22B97000602FD /* ItemRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB603DD29D22B97000602FD /* ItemRow.swift */; };
 		FAB603E029D23BC9000602FD /* ItemDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB603DF29D23BC9000602FD /* ItemDetail.swift */; };
 		FABD4B5829D2102B004342BD /* iDineApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FABD4B5729D2102B004342BD /* iDineApp.swift */; };
@@ -24,6 +25,7 @@
 /* Begin PBXFileReference section */
 		FA151C0429D4AB05001FAD8B /* OrderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OrderView.swift; sourceTree = "<group>"; };
 		FA151C0629D4AE8A001FAD8B /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
+		FA151C0829D4B346001FAD8B /* CheckoutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CheckoutView.swift; sourceTree = "<group>"; };
 		FAB603DD29D22B97000602FD /* ItemRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemRow.swift; sourceTree = "<group>"; };
 		FAB603DF29D23BC9000602FD /* ItemDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemDetail.swift; sourceTree = "<group>"; };
 		FABD4B5429D2102B004342BD /* iDine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = iDine.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -103,6 +105,7 @@
 				FAB603DF29D23BC9000602FD /* ItemDetail.swift */,
 				FA151C0429D4AB05001FAD8B /* OrderView.swift */,
 				FA151C0629D4AE8A001FAD8B /* MainView.swift */,
+				FA151C0829D4B346001FAD8B /* CheckoutView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -180,6 +183,7 @@
 			files = (
 				FAB603E029D23BC9000602FD /* ItemDetail.swift in Sources */,
 				FA151C0729D4AE8A001FAD8B /* MainView.swift in Sources */,
+				FA151C0929D4B346001FAD8B /* CheckoutView.swift in Sources */,
 				FA151C0529D4AB05001FAD8B /* OrderView.swift in Sources */,
 				FABD4B5A29D2102B004342BD /* ContentView.swift in Sources */,
 				FABD4B5829D2102B004342BD /* iDineApp.swift in Sources */,
